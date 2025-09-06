@@ -16,8 +16,7 @@
 "chancetodrop": 0.5
 },
 {
-"dino":
-"/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
 "chancetodrop": 0.6
 },
 {
@@ -367,4 +366,5 @@
 }
 ]
 }
+
 }
