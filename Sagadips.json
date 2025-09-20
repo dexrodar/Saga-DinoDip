@@ -252,9 +252,13 @@
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
 					"chancetodrop": 0.5
-				}
+				},
+				{
+					"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+					"chancetodrop": 0.7
+				},
 		],
-		"dipstogive": 5
+		"dipstogive": 6
 	},	
 	{
 		"weekforoptions": [
@@ -311,7 +315,7 @@
 					"chancetodrop": 0.5
 				}
 		],
-		"dipstogive": 5
+		"dipstogive": 6
 	},
 	{
 		"weekforoptions": [
@@ -411,9 +415,9 @@
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
 					"chancetodrop": 0.4
-				}
+				},
 		],
-		"dipstogive": 4
+		"dipstogive": 5
 	},	
 	{
 		"weekforoptions": [		
@@ -448,9 +452,13 @@
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
 					"chancetodrop": 0.6
+				},
+				{
+					"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
+					"chancetodrop": 0.4
 				}
 		],
-		"dipstogive": 3
+		"dipstogive": 4
 	},
 		{
 		"weekforoptions": [		
@@ -481,9 +489,13 @@
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
 					"chancetodrop": 0.5
+				},
+				{
+					"dino": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+					"chancetodrop": 0.4
 				}
 		],
-		"dipstogive": 2
+		"dipstogive": 3
 },	
 	{
 		"weekforoptions": [		
@@ -505,5 +517,6 @@
 ]
 }
 }
+
 
 
