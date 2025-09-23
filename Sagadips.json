@@ -456,6 +456,10 @@
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
 					"chancetodrop": 0.4
+				},
+				{
+					"dino": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+					"chancetodrop": 0.4
 				}
 		],
 		"dipstogive": 4
@@ -517,6 +521,7 @@
 ]
 }
 }
+
 
 
 
