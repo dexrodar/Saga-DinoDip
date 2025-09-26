@@ -538,10 +538,6 @@
 				{
 					"dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
 					"chancetodrop": 0.5
-				},
-				{
-					"dino": "/DragonKingdom'/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1",
-					"chancetodrop": 0.5
 				}
 		],
 		"dipstogive": 1
@@ -549,6 +545,7 @@
 ]
 }
 }
+
 
 
 
