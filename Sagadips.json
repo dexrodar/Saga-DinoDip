@@ -291,15 +291,23 @@
 					"chancetodrop": 0.8
 				},
 				{
-					"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
-					"chancetodrop": 0.6
-				},
-				{
-					"dino": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+					"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
 					"chancetodrop": 0.8
 				},
 				{
+					"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
+					"chancetodrop": 0.7
+				},
+				{
+					"dino": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+					"chancetodrop": 0.6
+				},
+				{
 					"dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+					"chancetodrop": 0.5
+				},
+				{
+					"dino": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP_C",
 					"chancetodrop": 0.5
 				},
 				{
@@ -366,9 +374,13 @@
 				{
 					"dino": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
 					"chancetodrop": 0.6
+				},
+				{
+					"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
+					"chancetodrop": 0.5
 				}
 		],
-		"dipstogive": 5
+		"dipstogive": 6
 	},
 	{
 		"weekforoptions": [		
@@ -382,6 +394,10 @@
 				},
 				{
 					"dino": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA_C.Ceratosaurus_Character_BP_ASA_C",
+					"chancetodrop": 0.7
+				},
+				{
+					"dino": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
 					"chancetodrop": 0.7
 				},
 				{
@@ -520,6 +536,10 @@
 					"chancetodrop": 0.5
 				},
 				{
+					"dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
+					"chancetodrop": 0.5
+				},
+				{
 					"dino": "/DragonKingdom'/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1",
 					"chancetodrop": 0.5
 				}
@@ -529,6 +549,7 @@
 ]
 }
 }
+
 
 
 
