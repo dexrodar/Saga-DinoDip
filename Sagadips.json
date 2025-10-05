@@ -368,7 +368,7 @@
 					"chancetodrop": 0.7
 				},
 				{
-					"dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+					"dino": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP_C",
 					"chancetodrop": 0.7
 				},
 				{
@@ -545,6 +545,7 @@
 ]
 }
 }
+
 
 
 
