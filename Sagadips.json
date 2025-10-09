@@ -429,11 +429,15 @@
 					"chancetodrop": 0.3
 				},
 				{
+					"dino": "/XyphiasCreaturesMegistotherium/Content/Dino/BP/Megistotherium_CharacterBP.Megistotherium_CharacterBP_C",
+					"chancetodrop": 0.5
+				},
+				{
 					"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
 					"chancetodrop": 0.4
 				},
 		],
-		"dipstogive": 5
+		"dipstogive": 6
 	},	
 	{
 		"weekforoptions": [		
@@ -442,7 +446,15 @@
 					"chancetodrop": 0.5
 				},
 				{
+					"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
+					"chancetodrop": 0.6
+				},
+				{
 					"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+					"chancetodrop": 0.6
+				},
+				{
+					"dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
 					"chancetodrop": 0.6
 				},
 				{
@@ -478,7 +490,7 @@
 					"chancetodrop": 0.4
 				}
 		],
-		"dipstogive": 4
+		"dipstogive": 5
 	},
 		{
 		"weekforoptions": [		
@@ -536,6 +548,10 @@
 					"chancetodrop": 0.5
 				},
 				{
+					"dino": "/WAK_Spinosaurus/Dino/Wak_Spinosaurus_Character_BP.Wak_Spinosaurus_Character_BP_C",
+					"chancetodrop": 0.5
+				},
+				{
 					"dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
 					"chancetodrop": 0.5
 				}
@@ -545,6 +561,7 @@
 ]
 }
 }
+
 
 
 
