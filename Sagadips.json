@@ -303,10 +303,6 @@
 					"chancetodrop": 0.6
 				},
 				{
-					"dino": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
-					"chancetodrop": 0.5
-				},
-				{
 					"dino": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP_C",
 					"chancetodrop": 0.5
 				},
@@ -377,7 +373,7 @@
 				},
 				{
 					"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
-					"chancetodrop": 0.5
+					"chancetodrop": 0.4
 				}
 		],
 		"dipstogive": 6
@@ -399,6 +395,10 @@
 				{
 					"dino": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
 					"chancetodrop": 0.7
+				},
+				{
+					"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
+					"chancetodrop": 0.6
 				},
 				{
 					"dino": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
@@ -429,10 +429,6 @@
 					"chancetodrop": 0.3
 				},
 				{
-					"dino": "/XyphiasCreaturesMegistotherium/Content/Dino/BP/Megistotherium_CharacterBP.Megistotherium_CharacterBP_C",
-					"chancetodrop": 0.5
-				},
-				{
 					"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
 					"chancetodrop": 0.4
 				},
@@ -448,6 +444,10 @@
 				{
 					"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 					"chancetodrop": 0.6
+				},
+				{
+					"dino": "/XyphiasCreaturesMegistotherium/Content/Dino/BP/Megistotherium_CharacterBP.Megistotherium_CharacterBP_C",
+					"chancetodrop": 0.5
 				},
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
@@ -490,7 +490,7 @@
 					"chancetodrop": 0.4
 				}
 		],
-		"dipstogive": 5
+		"dipstogive": 6
 	},
 		{
 		"weekforoptions": [		
@@ -552,15 +552,20 @@
 					"chancetodrop": 0.5
 				},
 				{
+					"dino": "/DragonKingdom'/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1_C",
+					"chancetodrop": 0.5
+				},
+				{
 					"dino": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
 					"chancetodrop": 0.5
 				}
 		],
-		"dipstogive": 1
+		"dipstogive": 2
 	}		
 ]
 }
 }
+
 
 
 
