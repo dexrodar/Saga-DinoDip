@@ -372,6 +372,10 @@
 					"chancetodrop": 0.6
 				},
 				{
+					"dino": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
+					"chancetodrop": 0.4
+				},
+				{
 					"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
 					"chancetodrop": 0.4
 				}
@@ -419,6 +423,10 @@
 				{
 					"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 					"chancetodrop": 0.4
+				},
+				{
+					"dino": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
+					"chancetodrop": 0.6
 				},
 				{
 					"dino": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
@@ -478,6 +486,10 @@
 					"chancetodrop": 0.6
 				},
 				{
+					"dino": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
+					"chancetodrop": 0.4
+				},
+				{
 					"dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
 					"chancetodrop": 0.6
 				},
@@ -504,6 +516,10 @@
 				},
 				{
 					"dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+					"chancetodrop": 0.6
+				},
+				{
+					"dino": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
 					"chancetodrop": 0.6
 				},
 				{
@@ -535,7 +551,7 @@
 					"chancetodrop": 0.4
 				}
 		],
-		"dipstogive": 4
+		"dipstogive": 5
 },	
 	{
 		"weekforoptions": [		
@@ -565,6 +581,7 @@
 ]
 }
 }
+
 
 
 
